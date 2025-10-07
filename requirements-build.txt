@@ -1,0 +1,2 @@
+# Additional tooling to produce a standalone Windows executable
+pyinstaller==6.3.0
